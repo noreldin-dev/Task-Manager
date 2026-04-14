@@ -18,4 +18,4 @@ A robust Command Line Interface (CLI) application built with **Python** to help 
    git clone [https://github.com/noreldin-dev/Task-Manager.git](https://github.com/noreldin-dev/Task-Manager.git)
 2. **Run the Application:**
    ```bash
-   python Task_manager.py
+   python Task_Maneger.py
